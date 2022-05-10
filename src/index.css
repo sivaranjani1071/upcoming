@@ -1,0 +1,13 @@
+body {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue",
+    Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+  font-size: 14px;
+  color: white;
+  font-size: 14px;
+  font-weight: bolder;
+  background-image: url("https://wallpapercave.com/wp/wp4464921.jpg");
+}
+.ReactTable .rt-thead.-headerGroups {
+  background: rgb(0 0 0 / 55%);
+}
